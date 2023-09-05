@@ -7,4 +7,7 @@
 *.mat
 *.npy
 .DS_Store
-
+.eggs/
+.idea/
+basicsr.egg-info/
+denoising_demo/
